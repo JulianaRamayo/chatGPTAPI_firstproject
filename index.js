@@ -7,7 +7,6 @@ import cors from 'cors';
 const openai = new OpenAI({
   apiKey: "API_KEY" // This is also the default, can be omitted
 });
-//organization: "org-xJYV1N2JPt8hsV9jv0zusxCy"
 
 const app = express();
 const port = 3000;
