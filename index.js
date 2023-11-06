@@ -5,7 +5,7 @@ import cors from 'cors';
 
 
 const openai = new OpenAI({
-  apiKey: "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" // This is also the default, can be omitted
+  apiKey: "API_KEY" // This is also the default, can be omitted
 });
 //organization: "org-xJYV1N2JPt8hsV9jv0zusxCy"
 
